@@ -1,0 +1,9 @@
+.vscode
+bin
+gen
+internal-mir
+mir
+.DS_Store
+Timer.prg.debug.xml
+Timer.prg
+build
